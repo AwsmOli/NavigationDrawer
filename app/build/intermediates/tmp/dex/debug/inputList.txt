@@ -1,0 +1,4 @@
+C:\Users\olfad\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\classes\debug
+C:\Users\olfad\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6c679b487e130753e3ea39443d0eed4c23d9b01f.jar
+C:\Users\olfad\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d927371655ee7915388e07b4e98f8420d9d92819.jar
+C:\Users\olfad\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-a9b5b95099718f9868abb8d46c7d3a8bdfd8eb30.jar
